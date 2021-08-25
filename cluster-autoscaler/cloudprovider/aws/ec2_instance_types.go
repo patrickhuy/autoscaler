@@ -1540,7 +1540,7 @@ var InstanceTypes = map[string]*InstanceType{
 		MemoryMb:     393216,
 		GPU:          0,
 	},
-  "m6i.32xlarge": {
+	"m6i.32xlarge": {
 		InstanceType: "m6i.32xlarge",
 		VCPU:         128,
 		MemoryMb:     524288,
